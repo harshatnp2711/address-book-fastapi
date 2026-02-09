@@ -1,12 +1,12 @@
 # Address Book API
 
-This is a FastAPI-based address book application.
+FastAPI-based address book application with geolocation search.
 
 ## Features
-- Create, delete addresses
+- Create and delete addresses
 - Store latitude and longitude
 - SQLite database
-- Retrieve addresses within a given distance
+- Find nearby addresses by distance
 - Input validation using Pydantic
 
 ## Tech Stack
